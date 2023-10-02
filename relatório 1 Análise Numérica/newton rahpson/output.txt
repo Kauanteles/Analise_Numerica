@@ -1,0 +1,3 @@
+ponto de zero: 1.10938158804216
+funcao no ponto: 0.000027486
+iteracoes necessarias: 13
