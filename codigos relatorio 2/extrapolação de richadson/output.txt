@@ -1,0 +1,2 @@
+Resultado da integral com Extrapolacao de Richardson:
+3.03231934442782

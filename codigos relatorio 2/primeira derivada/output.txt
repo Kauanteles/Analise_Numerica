@@ -1,0 +1,2 @@
+Derivada Aproximada:
+Derivada em x = 2.0 sera aproximadamente: 8.00001000005324

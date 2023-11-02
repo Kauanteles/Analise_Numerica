@@ -1,0 +1,2 @@
+Segunda Derivada Aproximada:
+Segunda derivada em x = 2.0 sera aproximadamente: 2.00000016548074
