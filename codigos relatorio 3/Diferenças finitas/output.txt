@@ -1,0 +1,11 @@
+Iteração 1: 40
+Iteração 2: 17.62688
+Iteração 3: 7.94512
+Iteração 4: 3.98383
+Iteração 5: 2.89091
+Iteração 6: 3.87944
+Iteração 7: 7.66117
+Iteração 8: 16.95895
+Iteração 9: 38.46717
+Iteração 10: 87.67175
+Iteração 11: 200
